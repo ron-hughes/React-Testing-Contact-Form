@@ -1,4 +1,5 @@
 import React from "react";
+import 'mutationobserver-shim';
 
 import ContactForm from "./components/ContactForm";
 
